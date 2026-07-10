@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FAFAF7"/>
+<stop offset="100%" stop-color="#EFEEE7"/>
+</linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#g)"/>
+
+<g transform="rotate(-8 300 300)">
+<g transform="translate(300,270)">
+  <path d="M -117.0 10 A 117.0 117.0 0 0 1 117.0 10" stroke="#14213D" stroke-width="16.2" fill="none" stroke-linecap="round"/>
+  <rect x="-142.2" y="0" width="36.0" height="81.0" rx="16.2" fill="#14213D"/>
+  <rect x="106.2" y="0" width="36.0" height="81.0" rx="16.2" fill="#14213D"/>
+  <circle cx="-124.2" cy="40.5" r="9.0" fill="#0EA5A0"/>
+  <circle cx="124.2" cy="40.5" r="9.0" fill="#0EA5A0"/>
+</g></g>
+<text x="300" y="480" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" fill="#5B6472">Lifestyle</text>
+
+</svg>

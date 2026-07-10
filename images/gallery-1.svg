@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FAFAF7"/>
+<stop offset="100%" stop-color="#EFEEE7"/>
+</linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#g)"/>
+
+<g transform="rotate(0 300 300)">
+<g transform="translate(300,270)">
+  <path d="M -130.0 10 A 130.0 130.0 0 0 1 130.0 10" stroke="#14213D" stroke-width="18.0" fill="none" stroke-linecap="round"/>
+  <rect x="-158.0" y="0" width="40.0" height="90.0" rx="18.0" fill="#14213D"/>
+  <rect x="118.0" y="0" width="40.0" height="90.0" rx="18.0" fill="#14213D"/>
+  <circle cx="-138.0" cy="45.0" r="10.0" fill="#0EA5A0"/>
+  <circle cx="138.0" cy="45.0" r="10.0" fill="#0EA5A0"/>
+</g></g>
+<text x="300" y="480" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" fill="#5B6472">Front View</text>
+
+</svg>

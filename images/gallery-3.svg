@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FAFAF7"/>
+<stop offset="100%" stop-color="#EFEEE7"/>
+</linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#g)"/>
+
+<g transform="rotate(0 300 300)">
+<g transform="translate(300,270)">
+  <path d="M -104.0 10 A 104.0 104.0 0 0 1 104.0 10" stroke="#5B6472" stroke-width="14.4" fill="none" stroke-linecap="round"/>
+  <rect x="-126.4" y="0" width="32.0" height="72.0" rx="14.4" fill="#5B6472"/>
+  <rect x="94.4" y="0" width="32.0" height="72.0" rx="14.4" fill="#5B6472"/>
+  <circle cx="-110.4" cy="36.0" r="8.0" fill="#F5A623"/>
+  <circle cx="110.4" cy="36.0" r="8.0" fill="#F5A623"/>
+</g></g>
+<text x="300" y="480" text-anchor="middle" font-family="Poppins, sans-serif" font-size="22" fill="#5B6472">Folded / Case</text>
+
+</svg>
